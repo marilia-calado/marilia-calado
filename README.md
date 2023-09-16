@@ -1,3 +1,3 @@
 - 👋 Hello, I’m @marilia-calado! 
-- 👩‍💻 I'm a Junior FullStack Web Developer certified by Kenzie Academy Brasil.
+- 👩‍💻 I'm a FullStack Web Developer certified by Kenzie Academy Brasil.
 - 📫 You can contact me at mgcd.calado@gmail.com
